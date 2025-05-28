@@ -1,0 +1,11 @@
+integer function comparar(integer numero) {
+   if (numero == 100) {
+    return numero;
+   }
+   else {
+    return 0;
+   }
+}
+
+integer numero = readinput();
+writeoutput(comparar(numero);)

@@ -1,0 +1,3 @@
+none function funcao1() {
+    writeoutput("Testando output");
+}

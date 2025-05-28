@@ -1,0 +1,14 @@
+flt function funcaoteste() {
+    flt teste = 1.5;
+    repeatuntil (teste >= 100) {
+        teste += 1;
+    }
+    return teste;
+}
+
+integer function funcao2() {
+    integer testando = 10;
+    loop (integer i = 0, i < testando, i++) {
+        testando = testando/2;
+    }
+}

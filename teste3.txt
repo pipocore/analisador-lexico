@@ -1,0 +1,4 @@
+integer function soma(integer a, integer b) {
+    integer soma = a + b;
+    return soma;
+}
